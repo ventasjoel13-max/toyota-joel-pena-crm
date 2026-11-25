@@ -1,0 +1,17 @@
+TOYOTA JOEL PEÑA CRM — COMISIONES MANUALES
+
+Incluye seguimiento de prospectos, clientes, historial, agenda, pruebas de manejo, inventario, cotizador, ventas, metas, reportes y respaldos.
+
+COMISIONES:
+- Captura manualmente la comisión de cada venta y cualquier bono.
+- Registra pagos parciales o completos con fecha, importe y nota/referencia.
+- Consulta cuánto se generó, cuánto se cobró y cuánto queda pendiente.
+- Revisa el resumen mensual de unidades, comisiones, pagos y saldos.
+
+DATOS Y PRIVACIDAD:
+Los datos se guardan localmente en el navegador de este dispositivo. No hay sincronización automática entre celular y computadora. Usa Descargar respaldo e Importar respaldo para transferir tus datos. Descarga copias periódicamente.
+
+INSTALACIÓN:
+Para instalar como aplicación en Android o computadora, primero hay que alojar los archivos en una dirección HTTPS. Después abre esa dirección desde Chrome y selecciona menú ⋮ > Instalar aplicación / Añadir a pantalla principal.
+
+Los avisos del CRM funcionan mientras la página está abierta. Para recordatorios con la app cerrada, exporta citas al calendario. WhatsApp abre el chat o mensaje preparado; tú decides enviarlo.
