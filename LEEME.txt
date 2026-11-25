@@ -1,6 +1,12 @@
 TOYOTA JOEL PEÑA CRM — COMISIONES MANUALES
 
-Incluye seguimiento de prospectos, clientes, historial, agenda, pruebas de manejo, inventario, cotizador, ventas, metas, reportes y respaldos.
+Incluye seguimiento de prospectos, clientes, historial, agenda, pruebas de manejo, inventario, cotizador, ventas, control de entregas, metas, reportes y respaldos.
+
+CONTROL DE ENTREGAS:
+- Programa una fecha estimada y registra la fecha real de entrega.
+- Lleva estatus: Pendiente, Listo para entregar o Entregado.
+- Controla placas, documentación, accesorios y preparación del vehículo.
+- Las entregas pendientes aparecen en el resumen y se incluyen al exportar recordatorios al calendario.
 
 COMISIONES:
 - Captura manualmente la comisión de cada venta y cualquier bono.
